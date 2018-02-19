@@ -21,8 +21,8 @@
   "homepage": "https://github.com/opentable/hapi-service-discovery",
   "dependencies": {
     "fqdn": "0.0.3",
-    "hoek": "^2.9.0",
-    "joi": "^6.1.1",
+    "hoek": "^4.2.1",
+    "joi": "^8.1.0",
     "ot-discovery": "0.3.0"
   },
   "devDependencies": {
